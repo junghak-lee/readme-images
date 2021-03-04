@@ -5,12 +5,12 @@
         <description>SECURITI.ai Cookie Consent Update</description>
         <element>securiti_ai_cookie_consent</element>
         <type>plugin</type>
-        <version>1.0.1</version>
+        <version>1.1.0</version>
         <folder>system</folder>
         <client>site</client>
         <infourl title="SECURITI.ai Cookie Consent">https://securiti.ai/privaci/cookie-consent-management/</infourl>
         <downloads>
-            <downloadurl type="full" format="zip">https://securiti.ai/download/joomla/securiti_ai_cookie_consent.zip-1.0.1.zip</downloadurl>
+            <downloadurl type="full" format="zip">https://securiti.ai/download/joomla/securiti_ai_cookie_consent.zip-1.1.0.zip</downloadurl>
         </downloads>
         <tags>
             <tag>stable</tag>
